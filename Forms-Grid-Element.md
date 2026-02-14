@@ -1,5 +1,5 @@
 The grid element is a display only element.
-# ![Alt text](path/to/image.png "Optional hover text")
+<!-- ![Alt text](path/to/image.png "Optional hover text") --> 
 
 !(pictures/Forms-Grid-Element.png)
 
