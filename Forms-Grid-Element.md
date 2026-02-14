@@ -1,7 +1,6 @@
 The grid element is a display only element.
-<!-- ![Alt text](path/to/image.png "Optional hover text") --> 
 
-!(pictures/Forms-Grid-Element.png)
+!(/pictures/Forms-Grid-Element.png)
 
 When making the grid you are asked to create columns.  Each of the colums have a programmtic name and a size relative to the screen 
 
