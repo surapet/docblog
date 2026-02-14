@@ -1,6 +1,6 @@
 The grid element is a display only element.
 
-![Forms-Grid_Elelment.png](https://github.com/surapet/docblog/blob/Teamdynamix-iPaaS/pictures/Forms-Grid-Element.png)
+![Forms-Grid_Elelment.png](pictures/Forms-Grid-Element.png)
 
 When making the grid you are asked to create columns.  Each of the colums have a programmtic name and a size relative to the screen 
 
