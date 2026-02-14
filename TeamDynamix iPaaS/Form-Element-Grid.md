@@ -12,6 +12,6 @@ When making the grid you are asked to create columns.  Each of the colums have a
 
 Filling the grid is done from JSON.  You can either fill it from the default value menu or an action/conditon as a part of the form, which could call a workflow. 
 
-![Forms-Grid-Adding-Default.png](pictures/Forms-Grid-Adding-Default.png)
+![Forms-Grid-Adding-Default-JSON.png](pictures/Forms-Grid-Adding-Default-JSON.png)
 
 ![Forms-Grid-Filled-In.png](pictures/Forms-Grid-Filled-In.png)
